@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>[Gifts Ideas] | Curated By Natasha</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="nav">
+  <div class="logo">
+    <div class="logo-mark">CBN</div>
+    <div class="logo-text">Curated By Natasha</div>
+  </div>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="fitness.html">Fitness</a>
+    <a href="beauty.html">Beauty</a>
+    <a href="pets.html">Pets</a>
+    <a href="outdoor.html">Outdoor</a>
+    <a href="gift-guides.html">Gift Guides</a>
+  </nav>
+</header>
+
+<section class="page-hero">
+  <h1>[Gift Ideas]</h1>
+  <p>[SHORT DESCRIPTION]</p>
+</section>
+
+<section class="grid-page">
+
+  <div class="post-card">
+    <h3>Featured Item 1</h3>
+    <p>Short description here.</p>
+  </div>
+
+  <div class="post-card">
+    <h3>Featured Item 2</h3>
+    <p>Short description here.</p>
+  </div>
+
+  <div class="post-card">
+    <h3>Featured Item 3</h3>
+    <p>Short description here.</p>
+  </div>
+
+</section>
+
+</body>
+</html>
