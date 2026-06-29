@@ -218,3 +218,34 @@ padding: 30px;
 font-size: 12px;
 color: #888;
 }
+/* PAGE HERO */
+.page-hero {
+text-align: center;
+padding: 80px 20px;
+background: #f3f1ec;
+}
+
+.page-hero h1 {
+font-family: "Playfair Display", serif;
+font-size: 40px;
+}
+
+/* PAGE GRID */
+.grid-page {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+gap: 20px;
+padding: 60px 40px;
+}
+
+.post-card {
+background: white;
+padding: 25px;
+border-radius: 12px;
+box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+transition: 0.3s ease;
+}
+
+.post-card:hover {
+transform: translateY(-5px);
+}
