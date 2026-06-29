@@ -1,10 +1,12 @@
-# Images
+# Curated By Natasha Version 2
 
-This folder stores all images used throughout the Curated By Natasha website.
+This folder contains the next generation of the website.
 
-Future files:
-- logo.svg
-- hero.jpg
-- category images
-- product images
-- journal images
+Goals:
+
+- Editorial magazine design
+- Responsive layout
+- Better branding
+- Cleaner navigation
+- Affiliate-ready pages
+- Mobile-first experience
